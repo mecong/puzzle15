@@ -1,0 +1,1 @@
+start javaw -jar target/puzzle15.jar  4
